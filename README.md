@@ -1,7 +1,7 @@
 # About this fork. 
 It allows to use this project with Guzzle >= 7.*. 
 
-#(Original readme) Dotmailer REST API (v2) PHP client [![Build Status](https://travis-ci.org/wellcometrust/dotmailer-php.svg?branch=master)](https://travis-ci.org/wellcometrust/dotmailer-php)
+# (Original readme) Dotmailer REST API (v2) PHP client [![Build Status](https://travis-ci.org/wellcometrust/dotmailer-php.svg?branch=master)](https://travis-ci.org/wellcometrust/dotmailer-php)
 
 PHP client library for the Dotmailer REST API (v2) described at https://developer.dotmailer.com/docs/
 
